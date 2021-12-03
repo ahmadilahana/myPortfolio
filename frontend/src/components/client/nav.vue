@@ -1,14 +1,17 @@
 <template>
-    <b-nav>
+    <b-nav class="pr-5">
         <b-nav-item>
             <h3>
                 MY<small class="text-muted">PORTFOLIO</small>
             </h3>
         </b-nav-item>
-        <b-nav-item class="align-self-center nav-menu">Active</b-nav-item>
-        <b-nav-item class="align-self-center nav-menu">Link</b-nav-item>
-        <b-nav-item class="align-self-center nav-menu">Another Link</b-nav-item>
-        <b-nav-item class="align-self-center nav-menu">Disabled</b-nav-item>
+        <!-- <div class="ml-auto"> -->
+            <b-nav-item class="align-self-center nav-menu ml-auto">Home</b-nav-item>
+            <b-nav-item class="align-self-center nav-menu">About</b-nav-item>
+            <b-nav-item class="align-self-center nav-menu">Skill</b-nav-item>
+            <b-nav-item class="align-self-center nav-menu">Project</b-nav-item>
+            <b-nav-item class="align-self-center nav-menu">Contact</b-nav-item>
+        <!-- </div> -->
     </b-nav>
 </template>
 
