@@ -1,13 +1,13 @@
 <template>
-    <b-nav class="pr-5">
-        <b-nav-item>
-            <h3>
-                MY<small class="text-muted">PORTFOLIO</small>
+    <b-nav class="pr-5 fixed-top bg-white">
+        <b-nav-item >
+            <h3 class="font-weight-bold">
+                MY<small class="text-muted font-weight-bold">PORTFOLIO</small>
             </h3>
         </b-nav-item>
         <!-- <div class="ml-auto"> -->
-            <b-nav-item class="align-self-center nav-menu ml-auto">Home</b-nav-item>
-            <b-nav-item class="align-self-center nav-menu">About</b-nav-item>
+            <b-nav-item class="align-self-center nav-menu ml-auto" href="#home">Home</b-nav-item>
+            <b-nav-item class="align-self-center nav-menu" href="#about">About</b-nav-item>
             <b-nav-item class="align-self-center nav-menu">Experience</b-nav-item>
             <b-nav-item class="align-self-center nav-menu">Skill</b-nav-item>
             <b-nav-item class="align-self-center nav-menu">Project</b-nav-item>
