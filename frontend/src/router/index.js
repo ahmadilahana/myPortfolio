@@ -7,19 +7,18 @@ Vue.use(VueRouter)
 
 import Home from '../views/client/home.vue'
 
-const routes = []
+const routes = [...RouteClient, ...RouteServer]
 
-RouteClient.forEach(item => {
-  routes.push(item)
-});
-RouteServer.forEach(item => {
-  routes.push(item)
-});
+// RouteClient.forEach(item => {
+//   routes.push(item)
+// });
+// RouteServer.forEach(item => {
+//   routes.push(item)
+// });
 
 const router = new VueRouter({
   mode: 'history',
   base: process.env.BASE_URL,
-  RouteClient,
   routes
 })
 
