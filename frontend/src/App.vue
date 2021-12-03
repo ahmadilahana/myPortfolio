@@ -1,10 +1,17 @@
 <template>
   <div id="app">
-    <div id="nav">
-    </div>
+    <main-nav></main-nav>
     <router-view/>
   </div>
 </template>
 
+<script>
+import MainNav from './components/MainNav.vue'
+export default {
+  components: {
+    MainNav
+  }
+}
+</script>
 <style>
 </style>
