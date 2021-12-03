@@ -18,30 +18,12 @@
         </div>
         <div class="row justify-content-center mt-3">
             <div class="col-md-4">
-                <h5 class="font-weight-bold">Profile</h5>
-                <table class="table table-borderless">
-                    <tr>
-                        <td>Nama</td>
-                        <td>: Ahmat Arif Ilahana</td>
-                    </tr>
-                    <tr>
-                        <td>Tempat, Tanggal Lahir</td>
-                        <td>: Semarang, 1 Mei 1999</td>
-                    </tr>
-                    <tr>
-                        <td>No. Telp / WA</td>
-                        <td>: 081358942678</td>
-                    </tr>
-                    <tr>
-                        <td>Alamat</td>
-                        <td>: Jl. Karangrejo Utara dlm. V no.37A Srondol Wetan, Banyumanik, Semarang</td>
-                    </tr>
-                </table>
-            </div>
-            <div class="col-md-4">
-                <p class="lead">Saya adalah seorang lulusan teknik informatika yang memiliki semangat kerja dan motivasi
+                <p class="lead text-center">Saya adalah seorang lulusan teknik informatika yang memiliki semangat kerja dan motivasi
 tinggi, mampu mempelajari hal-hal baru dengan cepat, disiplin, bertanggung jawab dan mampu
 bekerja secara tim atau individu.</p>
+            </div>
+            <div class="col-md-4">
+                <p class="lead text-center">Saya sangat tertarik dengan perkembangan teknologi, karena alasan ini saya terjun di dunia programmer terutama pemrogramman web. Keinginan saya adalah dapat menguasai berbagai macam bahasa pemrograman.</p>
             </div>
         </div>
     </div>
