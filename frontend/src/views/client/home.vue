@@ -48,7 +48,7 @@ bekerja secara tim atau individu.</p>
         </div>
     </div>
 
-    <div class="container-fluid pl-0 pr-0 pb-5 text-white" id="experience" style="background-color: #1dcaff">
+    <div class="container-fluid pl-0 pr-0 pb-5 text-white" id="skill" style="background-color: #1dcaff">
         <div class="row mx-0 px-0">
             <div class="col text-center">
                 <h3 class="font-weight-bold">Skill</h3>
