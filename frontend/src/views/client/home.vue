@@ -34,9 +34,9 @@ bekerja secara tim atau individu.</p>
                 <h3 class="font-weight-bold">Experience</h3>
             </div>
         </div>
-        <div class="d-flex justify-content-center">
+        <div class="d-flex justify-content-md-center">
             <div class="m-5 border p-3 w-50">
-                <b-tabs content-class="mt-3">
+                <b-tabs content-class="mt-3" align='center'>
                     <b-tab title="Educational Experience" active>
                         <b-table :items="education" thead-class="hidden_header"/>
                     </b-tab>

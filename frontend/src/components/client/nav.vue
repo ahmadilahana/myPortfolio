@@ -8,7 +8,7 @@
         <!-- <div class="ml-auto"> -->
             <b-nav-item class="align-self-center nav-menu ml-auto" href="#home">Home</b-nav-item>
             <b-nav-item class="align-self-center nav-menu" href="#about">About</b-nav-item>
-            <b-nav-item class="align-self-center nav-menu">Experience</b-nav-item>
+            <b-nav-item class="align-self-center nav-menu" href="#experience">Experience</b-nav-item>
             <b-nav-item class="align-self-center nav-menu">Skill</b-nav-item>
             <b-nav-item class="align-self-center nav-menu">Project</b-nav-item>
             <b-nav-item class="align-self-center nav-menu">Contact</b-nav-item>
