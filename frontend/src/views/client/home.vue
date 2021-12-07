@@ -133,7 +133,7 @@ bekerja secara tim atau individu.</p>
                 <h3 class="font-weight-bold">Contact</h3>
             </div>
         </div>
-        <div class="row justify-content-center mt-3 mx-0 px-0">
+        <div class="row justify-content-md-center mt-3 mx-0 px-0">
             <div class="col-md-4">
                 <form>
                     <div class="form-group">
